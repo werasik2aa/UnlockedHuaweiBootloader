@@ -1,4 +1,5 @@
 https://github.com/werasik2aa/Huawei-Unlock-Tool
+
 ✅ Full / Verified
 ⚠️ Partitionally / Unknown
 ❌ Not Working / Not verified
