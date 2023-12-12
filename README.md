@@ -3,6 +3,9 @@ https://github.com/werasik2aa/Huawei-Unlock-Tool
 ✅ Full / Verified
 ⚠️ Partitionally / Unknown
 ❌ Not Working / Not verified
+
+If you have bootloop. Just restore your aboot, sbl1, kernel... (Sometimes need to restore tz, rpm...)
+
 | Devices       | Status | Check |
 | ------------- | :----: | :---: |
 | ATU           |   ✅   |  ✅  |
