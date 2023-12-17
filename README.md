@@ -8,7 +8,7 @@ If you have bootloop. Just restore your aboot, sbl1, kernel... (Sometimes need t
 
 Bootloaders added to program...
 
-| Devices       | Status | Check |
+| Devices       | Status | Checked |
 | ------------- | :----: | :---: |
 | ATU           |   ✅   |  ✅  |
 | AUM           |   ✅   |  ✅  |
@@ -31,3 +31,4 @@ Bootloaders added to program...
 | KIW           |   ⚠️   |  ❌  |
 | LDN           |   ✅   |  ❌  |
 | LND           |   ✅   |  ❌  |
+| S8-701U       |   ✅   |  ❌  |
