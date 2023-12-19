@@ -10,7 +10,7 @@ Bootloaders added to program...
 
 | Devices       | Ability | Checked |
 | ------------- | :-----: | :---: |
-| ATU           |   ✅   |  ✅  |
+| ATU           |   ✅   |  ✅  || Che1          |   ⚠️   |  ❌  |
 | AUM           |   ✅   |  ✅  |
 | ALE           |   ⚠️   |  ❌  |
 | ARE           |   ⚠️   |  ❌  |
@@ -28,6 +28,7 @@ Bootloaders added to program...
 | C8816D        |   ⚠️   |  ❌  |
 | C8817D        |   ⚠️   |  ❌  |
 | C8817L        |   ⚠️   |  ❌  |
+
 | Che1          |   ⚠️   |  ❌  |
 | DLI           |   ⚠️   |  ❌  |
 | FDR           |   ✅   |  ✅  |
