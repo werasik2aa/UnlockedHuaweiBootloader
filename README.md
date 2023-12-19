@@ -26,9 +26,9 @@ Bootloaders added to program...
 | CPN8937       |   ⚠️   |  ❌  |
 | DLI           |   ⚠️   |  ❌  |
 | FDR           |   ✅   |  ✅  |
-| G620S         |   ⚠️   |  ❌  |
+| G620S         |   ✅   |  ❌  |
 | G630          |   ✅   |  ❌  |
-| Y635          |   ⚠️   |  ❌  |
+| Y635          |   ✅   |  ❌  |
 | KIW           |   ⚠️   |  ❌  |
 | LDN           |   ✅   |  ❌  |
 | LND           |   ✅   |  ❌  |
