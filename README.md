@@ -30,4 +30,4 @@ Bootloaders added to program...
 | C8817L        |   ⚠️   |  ❌  | KIW           |   ⚠️   |  ❌  |
 | LDN           |   ⚠️   |  ❌  | LND           |   ⚠️   |  ❌  |
 | SC-CL         |   ⚠️   |  ❌  | S7-721        |   ⚠️   |  ❌  |
-| S8-701u       |   ⚠️   |  ❌  | Another           |   ❌   |  ❌  |
+| S8-701u       |   ⚠️   |  ❌  | Another       |   ❌   |  ❌  |
