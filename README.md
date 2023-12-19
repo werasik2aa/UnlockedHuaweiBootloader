@@ -8,8 +8,8 @@ If you have bootloop. Just restore your aboot, sbl1, kernel... (Sometimes need t
 
 Bootloaders added to program...
 
-| Devices       | ABILITY | Checked |
-| ------------- | :----: | :---: |
+| Devices       | Ability | Checked |
+| ------------- | :-----: | :---: |
 | ATU           |   ✅   |  ✅  |
 | AUM           |   ✅   |  ✅  |
 | ALE           |   ⚠️   |  ❌  |
@@ -24,6 +24,11 @@ Bootloaders added to program...
 | CAN           |   ⚠️   |  ❌  |
 | CAZ           |   ⚠️   |  ❌  |
 | CPN8937       |   ⚠️   |  ❌  |
+| C8816         |   ✅   |  ❌  |
+| C8816D        |   ✅   |  ❌  |
+| C8817D        |   ✅   |  ❌  |
+| C8817L        |   ✅   |  ❌  |
+| Che1          |   ✅   |  ❌  |
 | DLI           |   ⚠️   |  ❌  |
 | FDR           |   ✅   |  ✅  |
 | G6-U-L        |   ✅   |  ❌  |
