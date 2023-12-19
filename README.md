@@ -27,8 +27,9 @@ Bootloaders added to program...
 | DLI           |   ⚠️   |  ❌  |
 | FDR           |   ✅   |  ✅  |
 | G620S         |   ⚠️   |  ❌  |
+| G630          |   ✅   |  ❌  |
 | Y635          |   ⚠️   |  ❌  |
 | KIW           |   ⚠️   |  ❌  |
 | LDN           |   ✅   |  ❌  |
 | LND           |   ✅   |  ❌  |
-| S8-701U       |   ✅   |  ❌  |
+| S8-701u       |   ✅   |  ❌  |
