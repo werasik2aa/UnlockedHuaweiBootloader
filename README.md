@@ -50,4 +50,3 @@ Bootloaders added to program...
 | SC-CL         |   ⚠️   |  ❌  |
 | S7-721        |   ⚠️   |  ❌  |
 | S8-701u       |   ⚠️   |  ❌  |
-| SC-CL         |   ⚠️   |  ❌  |
