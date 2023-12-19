@@ -8,7 +8,7 @@ If you have bootloop. Just restore your aboot, sbl1, kernel... (Sometimes need t
 
 Bootloaders added to program...
 
-| Devices       | Percent | Checked |
+| Devices       | ABILITY | Checked |
 | ------------- | :----: | :---: |
 | ATU           |   ✅   |  ✅  |
 | AUM           |   ✅   |  ✅  |
