@@ -28,6 +28,6 @@ Bootloaders added to program...
 | C8816D        |   ⚠️   |  ❌  | Y635          |   ⚠️   |  ❌  |
 | C8817D        |   ⚠️   |  ❌  | Y330          |   ⚠️   |  ❌  |
 | C8817L        |   ⚠️   |  ❌  | KIW           |   ⚠️   |  ❌  |
-| LDN           |   ⚠️   |  ❌  | LND           |   ⚠️   |  ❌  |
+| LDN           |   ✅   |  ❌  | LND           |   ✅   |  ❌  |
 | SC-CL         |   ⚠️   |  ❌  | S7-721        |   ⚠️   |  ❌  |
 | S8-701u       |   ⚠️   |  ❌  | Another       |   ❌   |  ❌  |
