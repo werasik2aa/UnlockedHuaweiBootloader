@@ -13,8 +13,8 @@ Bootloaders added to program...
 | ATU           |   ✅   |  ✅  | Che1          |   ⚠️   |  ❌  |
 | AUM           |   ✅   |  ✅  | DLI           |   ⚠️   |  ❌  |
 | ALE           |   ⚠️   |  ❌  | FDR           |   ✅   |  ✅  |
-| ARE           |   ⚠️   |  ❌  | G6-U-L        |   ⚠️   |  ❌  |
-| AGS           |   ⚠️   |  ❌  | G6-U-L        |   ⚠️   |  ❌  |
+| ARE           |   ⚠️   |  ❌  | G6-L          |   ⚠️   |  ❌  |
+| AGS           |   ⚠️   |  ❌  | G6-U          |   ⚠️   |  ❌  |
 | ARE           |   ⚠️   |  ❌  | G615          |   ⚠️   |  ❌  |
 | ARS           |   ⚠️   |  ❌  | G620          |   ⚠️   |  ❌  |
 | ATH           |   ⚠️   |  ❌  | G620S         |   ⚠️   |  ❌  |
@@ -29,5 +29,5 @@ Bootloaders added to program...
 | C8817D        |   ⚠️   |  ❌  | Y330          |   ⚠️   |  ❌  |
 | C8817L        |   ⚠️   |  ❌  | KIW           |   ⚠️   |  ❌  |
 | LDN           |   ✅   |  ❌  | LND           |   ✅   |  ❌  |
-| SC-CL         |   ⚠️   |  ❌  | S7-721       |   ⚠️   |  ❌  |
+| SC-CL         |   ⚠️   |  ❌  | S7-721        |   ⚠️   |  ❌  |
 | S8-701u       |   ⚠️   |  ❌  | Another       |   ❌   |  ❌  |
