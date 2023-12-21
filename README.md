@@ -8,9 +8,9 @@ If you have bootloop. Just restore your aboot, sbl1, kernel... (Sometimes need t
 
 Bootloaders added to program...
 
-| Devices       | Ability | Checked | Devices       | Ability | Checked |
-| ------------- | :-----: | :---: | ------------- | :-----: | :---: |
-| ATU           |   ✅   |  ✅  | Che1          |   ⚠️   |  ❌  |
+| Devices       | Ability | Checked | Devices    | Ability | Checked | Devices     | Ability | Checked |
+| ------------- | :-----: | :---: | ------------ | :-----: | :---: | ------------- | :-----: | :---: |
+| ATU           |   ✅   |  ✅  | Che1          |   ⚠️   |  ❌  | TOR            |   ✅   |  ✅   |
 | AUM           |   ✅   |  ✅  | DLI           |   ⚠️   |  ❌  |
 | ALE           |   ⚠️   |  ❌  | FDR           |   ✅   |  ✅  |
 | ARE           |   ⚠️   |  ❌  | G6-L          |   ⚠️   |  ❌  |
