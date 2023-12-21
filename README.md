@@ -10,9 +10,9 @@ If you have bootloop. Just restore your aboot, sbl1, kernel... (Sometimes need t
 
 Bootloaders added to program...
 
-| Devices       | Ability | Checked | Devices    | Ability | Checked | Devices     | Ability | Checked |
-| ------------- | :-----: | :---: | ------------ | :-----: | :---: | ------------- | :-----: | :---: |
-| ATU           |   ✅   |  ✅  | Che1          |   ⚠️   |  ❌  | TOR            |   ⚠️   |  ❌   |
+| Devices       | Ability | Checked | Devices    | Ability | Checked |
+| ------------- | :-----: | :---: | ------------ | :-----: | :---: |
+| ATU           |   ✅   |  ✅  | Che1          |   ⚠️   |  ❌  |
 | AUM           |   ✅   |  ✅  | DLI           |   ⚠️   |  ❌  |
 | ALE           |   ⚠️   |  ❌  | FDR           |   ✅   |  ✅  |
 | ARE           |   ⚠️   |  ❌  | G6-L          |   ⚠️   |  ❌  |
@@ -32,4 +32,4 @@ Bootloaders added to program...
 | C8817L        |   ⚠️   |  ❌  | KIW           |   ⚠️   |  ❌  |
 | LDN           |   ✅   |  ❌  | LND           |   ✅   |  ❌  |
 | SC-CL         |   ⚠️   |  ❌  | S7-721        |   ⚠️   |  ❌  |
-| S8-701u       |   ⚠️   |  ❌  | Another       |   ❌   |  ❌  |
+| S8-701u       |   ⚠️   |  ❌  | TOR           |   ⚠️   |  ❌  |
