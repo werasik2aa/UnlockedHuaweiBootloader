@@ -33,3 +33,4 @@ Bootloaders added to program...
 | LDN           |   ✅   |  ❌  | LND           |   ✅   |  ❌  |
 | SC-CL         |   ⚠️   |  ❌  | S7-721        |   ⚠️   |  ❌  |
 | S8-701u       |   ⚠️   |  ❌  | TOR           |   ⚠️   |  ❌  |
+| TOR           |   ⚠️   |  ❌  | TRT           |   ⚠️   |  ❌  |
