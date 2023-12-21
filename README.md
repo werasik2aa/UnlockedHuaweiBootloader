@@ -10,7 +10,7 @@ Bootloaders added to program...
 
 | Devices       | Ability | Checked | Devices    | Ability | Checked | Devices     | Ability | Checked |
 | ------------- | :-----: | :---: | ------------ | :-----: | :---: | ------------- | :-----: | :---: |
-| ATU           |   ✅   |  ✅  | Che1          |   ⚠️   |  ❌  | TOR            |   ✅   |  ✅   |
+| ATU           |   ✅   |  ✅  | Che1          |   ⚠️   |  ❌  | TOR            |   ⚠️   |  ❌   |
 | AUM           |   ✅   |  ✅  | DLI           |   ⚠️   |  ❌  |
 | ALE           |   ⚠️   |  ❌  | FDR           |   ✅   |  ✅  |
 | ARE           |   ⚠️   |  ❌  | G6-L          |   ⚠️   |  ❌  |
