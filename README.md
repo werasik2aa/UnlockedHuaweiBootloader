@@ -1,3 +1,5 @@
+Bootloader pack for Free Huawei unlock tool. 21.12.2023! This bootloader pack used for free unlock huawei devices. Not need to pay for this! Not need to root device for do that. Easy unlock throught qdload 9008 mode.
+
 https://github.com/werasik2aa/Huawei-Unlock-Tool
 
 https://disk.yandex.ru/client/disk/PROJECT/MTK-QC
