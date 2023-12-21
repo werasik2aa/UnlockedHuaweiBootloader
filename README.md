@@ -1,5 +1,7 @@
 https://github.com/werasik2aa/Huawei-Unlock-Tool
 
+https://disk.yandex.ru/client/disk/PROJECT/MTK-QC
+
 ✅ Full / Verified
 ⚠️ Partitionally / Unknown
 ❌ Not Working / Not verified
