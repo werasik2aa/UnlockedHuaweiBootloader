@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bootloader type="2" name="Kirin 65x (A)">
+    <image path="xloader.img" role="xloader" address="0x00020000" hash="8a35f16db94dafde47aa718c673958f108805480" />
+    <image path="fastboot.img" role="fastboot" address="0x10000000" hash="c77c7524e79aabfa5b979053dd2186dc2bae53e1" />
+</bootloader>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bootloader type="2" name="Kirin 960">
+    <image path="xloader.img" role="xloader" address="0x00020000" hash="511771400658fb2ffa2e0abcb22c3c274c9a3e7b" />
+    <image path="uce.img" role="uce" address="0x6A908000" hash="4d594cdc08316879ae7987cca5878ff97f9bd789" />
+    <image path="fastboot.img" role="fastboot" address="0x1AC00000" hash="5254085bd85943f795f679900563b51153515e66" />
+</bootloader>

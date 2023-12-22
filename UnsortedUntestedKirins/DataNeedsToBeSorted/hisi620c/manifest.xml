@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bootloader type="2" name="Kirin 620 (CAM)">
+    <image path="xloader.img" role="xloader" address="0xF9800800" hash="b50f62949dc5edf35478cfb3d7b2b20f638db017" />
+    <image path="fastboot.img" role="fastboot" address="0x06800000" hash="450110e1807eb5e829e863ce60fb0020c21e06a6" />
+</bootloader>
