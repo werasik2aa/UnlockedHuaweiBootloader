@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding = "gb2312" standalone = "yes" ?>
+<configurations checksum = "0x000aa26b">
+    <configuration ap_platform = "K3V5" modem_platform = "N/A" product_id = "EVA" version = "HLEVAAL10M00A062">
+        <update_solution_version>
+            <solution_ver>1.0</solution_ver>
+        </update_solution_version>
+        <fastboot_unlock_version>
+            <unlock_ver>1.0</unlock_ver>
+        </fastboot_unlock_version>
+        <bootloaderimage_ddr checksum = "0xFFFFFFFF">
+            <image name = "XLOADER" address = "0x00020000" identifier = "xloader">bootloaderimage/sec_xloader_ddr_test.img</image>
+        </bootloaderimage_ddr>
+        <bootloaderimage checksum = "0xFFFFFFFF">
+            <image name = "XLOADER" address = "0x00020000" identifier = "xloader">bootloaderimage/sec_usb_xloader.img</image>
+            <image name = "FASTBOOT" address = "0x10000000" identifier = "fastboot">bootloaderimage/sec_fastboot.img</image>
+        </bootloaderimage>
+        <eraseimage checksum="0xFFFFFFFF">
+        </eraseimage>
+        <fastbootimage  checksum = "0xFFFFFFFF">
+        </fastbootimage>
+        <modemimage checksum = "0xFFFFFFFF">
+        </modemimage>
+        <partially_erase_configuration checksum = "0xFFFFFFFF">
+        </partially_erase_configuration>
+        <totally_erase_configuration checksum = "0xFFFFFFFF">
+        </totally_erase_configuration>
+    </configuration>
+</configurations>
