@@ -18,7 +18,7 @@ Bootloaders added to program...
 | AUM           |   ✅   |  ✅  | DLI           |   ⚠️   |  ❌  | SCC-UXX        |   ⚠️   |  ❌  |
 | ALE           |   ⚠️   |  ❌  | FDR           |   ✅   |  ✅  | SCL-CLXX       |   ⚠️   |  ❌  |
 | ARE           |   ⚠️   |  ❌  | G6-L          |   ⚠️   |  ❌  | SCL-L01        |   ⚠️   |  ❌  |
-| AGS           |   ⚠️   |  ❌  | G6-U          |   ⚠️   |  ❌  |
+| AGS           |   ⚠️   |  ❌  | G6-U          |   ⚠️   |  ❌  | KII-L21        |   ⚠️   |  ❌  |
 | ARE           |   ⚠️   |  ❌  | G615          |   ⚠️   |  ❌  |
 | ARS           |   ⚠️   |  ❌  | G620          |   ⚠️   |  ❌  |
 | ATH           |   ⚠️   |  ❌  | G620S         |   ⚠️   |  ❌  |
