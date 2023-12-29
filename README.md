@@ -10,7 +10,7 @@ MTK/QC LOADERS | Scatters | Other things: https://disk.yandex.ru/client/disk/PRO
 
 If you have bootloop. Just restore your aboot, sbl1, kernel... (Sometimes need to restore tz, rpm...)
 
-Bootloaders added to program...
+Bootloaders added to program: QUALCOMM
 
 | Devices       | Ability | Checked | Devices    | Ability | Checked | Devices     | Ability | Checked |
 | ------------- | :-----: | :-----: | ---------- | :-----: | :-----: | ----------- | :-----: | :---: |
@@ -37,3 +37,18 @@ Bootloaders added to program...
 | S8-701u       |   ⚠️   |  ❌  | TOR           |   ⚠️   |  ❌  |
 | TOR           |   ⚠️   |  ❌  | TRT           |   ⚠️   |  ❌  |
 
+Bootloaders added to program: KIRIN-HISI
+
+| Devices       | Ability | Checked |
+| ------------- | :-----: | :-----: |
+| KIRIN960      |   ✅   |  ✅  |
+| KIRIN955      |   ✅   |  ✅  |
+| KIRIN950      |   ✅   |  ✅  |
+| KIRIN935      |   ✅   |  ✅  |
+| KIRIN925      |   ✅   |  ✅  |
+| KIRIN810      |   ✅   |  ✅  |
+| KIRIN710      |   ✅   |  ✅  |
+| KIRIN65x_a    |   ✅   |  ✅  |
+| KIRIN65x_b    |   ✅   |  ✅  |
+| KIRIN620(CAM) |   ✅   |  ✅  |
+| KIRIN620      |   ✅   |  ✅  |
