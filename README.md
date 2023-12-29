@@ -41,14 +41,14 @@ Bootloaders added to program: KIRIN-HISI
 
 | Devices       | Ability | Checked |
 | ------------- | :-----: | :-----: |
-| KIRIN970      |   ✅   |  ✅  |
+| KIRIN970      |   ✅   |  ⚠️  |
 | KIRIN960      |   ✅   |  ✅  |
-| KIRIN955      |   ✅   |  ✅  |
+| KIRIN955      |   ✅   |  ⚠️  |
 | KIRIN950      |   ✅   |  ✅  |
 | KIRIN935      |   ✅   |  ✅  |
 | KIRIN925      |   ✅   |  ✅  |
-| KIRIN810      |   ✅   |  ✅  |
-| KIRIN710      |   ✅   |  ✅  |
+| KIRIN810      |   ✅   |  ⚠️  |
+| KIRIN710      |   ✅   |  ⚠️  |
 | KIRIN65x_a    |   ✅   |  ✅  |
 | KIRIN65x_b    |   ✅   |  ✅  |
 | KIRIN620(CAM) |   ✅   |  ✅  |
