@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<bootloader type="2" name="Kirin 950">
-    <image path="xloader.img" role="xloader" address="0x00020000" hash="2295d47c9ebe580956dbdd01eef249555ed4c872" />
-    <image path="fastboot.img" role="fastboot" address="0x10000000" hash="0f1d7f8ac17406c17569d4a1aed74b0103ec2860" />
-</bootloader>

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<bootloader type="2" name="Kirin 935">
-    <image path="xloader.img" role="xloader" address="0x00020000" hash="a1b9ad228cb0d5b107900ef8dbc140fe628593fc" />
-    <image path="fastboot.img" role="fastboot" address="0x10000000" hash="3440b5168278b92420ff6e179f2f81b1973c92ae" />
-</bootloader>
