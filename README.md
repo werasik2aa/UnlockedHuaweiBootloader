@@ -41,6 +41,7 @@ Bootloaders added to program: KIRIN-HISI
 
 | Devices       | Ability | Checked |
 | ------------- | :-----: | :-----: |
+| KIRIN970      |   ✅   |  ✅  |
 | KIRIN960      |   ✅   |  ✅  |
 | KIRIN955      |   ✅   |  ✅  |
 | KIRIN950      |   ✅   |  ✅  |
