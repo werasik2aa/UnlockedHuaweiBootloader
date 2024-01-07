@@ -10,7 +10,7 @@ MTK/QC LOADERS | Scatters | Other things: https://disk.yandex.ru/client/disk/PRO
 
 If you have bootloop. Just restore your aboot, sbl1, kernel... (Sometimes need to restore tz, rpm...)
 
-Bootloaders added to program: QUALCOMM
+Bootloaders added to program: QUALCOMM|KIRIN-HISI
 
 | Devices       | Ability | Checked | Devices    | Ability | Checked | Devices     | Ability | Checked | Devices     | Ability | Checked |
 | ------------- | :-----: | :-----: | ---------- | :-----: | :-----: | ----------- | :-----: | :---:   | ----------- | :-----: | :----:  |
