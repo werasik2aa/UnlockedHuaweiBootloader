@@ -12,30 +12,30 @@ If you have bootloop. Just restore your aboot, sbl1, kernel... (Sometimes need t
 
 Bootloaders added to program: QUALCOMM
 
-| Devices       | Ability | Checked | Devices    | Ability | Checked | Devices     | Ability | Checked |
-| ------------- | :-----: | :-----: | ---------- | :-----: | :-----: | ----------- | :-----: | :---: |
-| ATU           |   ✅   |  ✅  | Che1          |   ⚠️   |  ❌  | KOB-WXX        |   ⚠️   |  ❌  |
-| AUM           |   ✅   |  ✅  | DLI           |   ⚠️   |  ❌  | SCC-UXX        |   ⚠️   |  ❌  |
-| ALE           |   ⚠️   |  ❌  | FDR           |   ✅   |  ✅  | SCL-CLXX       |   ⚠️   |  ❌  |
-| ARE           |   ⚠️   |  ❌  | G6-L          |   ⚠️   |  ❌  | SCL-L01        |   ⚠️   |  ❌  |
-| AGS           |   ⚠️   |  ❌  | G6-U          |   ⚠️   |  ❌  | KII-L21        |   ⚠️   |  ❌  |
-| ARE           |   ⚠️   |  ❌  | G615          |   ⚠️   |  ❌  |
-| ARS           |   ⚠️   |  ❌  | G620          |   ⚠️   |  ❌  |
-| ATH           |   ⚠️   |  ❌  | G620S         |   ⚠️   |  ❌  |
-| BAH           |   ⚠️   |  ❌  | G630          |   ✅   |  ⚠️  |
-| BKK           |   ⚠️   |  ❌  | G660          |   ⚠️   |  ❌  |
-| DUB           |   ⚠️   |  ❌  | G718          |   ⚠️   |  ❌  |
-| CAN           |   ⚠️   |  ❌  | G730          |   ⚠️   |  ❌  |
-| CAZ           |   ⚠️   |  ❌  | G750          |   ⚠️   |  ❌  |
-| CPN8937       |   ⚠️   |  ❌  | G760          |   ⚠️   |  ❌  |
-| C8816         |   ⚠️   |  ❌  | H30           |   ⚠️   |  ❌  |
-| C8816D        |   ⚠️   |  ❌  | Y635          |   ⚠️   |  ❌  |
-| C8817D        |   ⚠️   |  ❌  | Y330          |   ⚠️   |  ❌  |
-| C8817L        |   ⚠️   |  ❌  | KIW           |   ⚠️   |  ❌  |
-| LDN           |   ✅   |  ❌  | LND           |   ✅   |  ❌  |
-| SC-CL         |   ⚠️   |  ❌  | S7-721        |   ⚠️   |  ❌  |
-| S8-701u       |   ⚠️   |  ❌  | TOR           |   ⚠️   |  ❌  |
-| TOR           |   ⚠️   |  ❌  | TRT           |   ⚠️   |  ❌  |
+| Devices       | Ability | Checked | Devices    | Ability | Checked | Devices     | Ability | Checked | Devices     | Ability | Checked |
+| ------------- | :-----: | :-----: | ---------- | :-----: | :-----: | ----------- | :-----: | :---:   | ----------- | :-----: | :----:  |
+| ATU           |   ✅   |  ✅  | Che1          |   ⚠️   |  ❌  | KOB-WXX        |   ⚠️   |  ❌  | FIG            |   ✅   |  ✅  |
+| AUM           |   ✅   |  ✅  | DLI           |   ⚠️   |  ❌  | SCC-UXX        |   ⚠️   |  ❌  | PE             |   ✅   |  ✅  |
+| ALE           |   ⚠️   |  ❌  | FDR           |   ✅   |  ✅  | SCL-CLXX       |   ⚠️   |  ❌  | PLK            |   ✅   |  ✅  |
+| ARE           |   ⚠️   |  ❌  | G6-L          |   ⚠️   |  ❌  | SCL-L01        |   ⚠️   |  ❌  | GRA            |   ✅   |  ✅  |
+| AGS           |   ⚠️   |  ❌  | G6-U          |   ⚠️   |  ❌  | KII-L21        |   ⚠️   |  ❌  | DUK            |   ✅   |  ✅  |
+| ARE           |   ⚠️   |  ❌  | G615          |   ⚠️   |  ❌  | ALE_KIRIN      |   ✅   |  ✅  | FRD            |   ✅   |  ✅  |
+| ARS           |   ⚠️   |  ❌  | G620          |   ⚠️   |  ❌  | CAM            |   ✅   |  ✅  | EVA            |   ✅   |  ✅  |
+| ATH           |   ⚠️   |  ❌  | G620S         |   ⚠️   |  ❌  | NEM            |   ✅   |  ✅  | STF            |   ✅   |  ✅  |
+| BAH           |   ⚠️   |  ❌  | G630          |   ✅   |  ⚠️  | PLK            |   ✅   |  ✅  | LON            |   ✅   |  ✅  |
+| BKK           |   ⚠️   |  ❌  | G660          |   ⚠️   |  ❌  | BLN            |   ✅   |  ✅  | MHA            |   ✅   |  ✅  |
+| DUB           |   ⚠️   |  ❌  | G718          |   ⚠️   |  ❌  | BND            |   ✅   |  ✅  | CMR            |   ✅   |  ✅  |
+| CAN           |   ⚠️   |  ❌  | G730          |   ⚠️   |  ❌  | LLD            |   ✅   |  ✅  | HWI            |   ✅   |  ✅  |
+| CAZ           |   ⚠️   |  ❌  | G750          |   ⚠️   |  ❌  | AGS2           |   ✅   |  ✅  | VTR            |   ✅   |  ✅  |
+| CPN8937       |   ⚠️   |  ❌  | G760          |   ⚠️   |  ❌  | PIC            |   ✅   |  ✅  |
+| C8816         |   ⚠️   |  ❌  | H30           |   ⚠️   |  ❌  | WAS            |   ✅   |  ✅  |
+| C8816D        |   ⚠️   |  ❌  | Y635          |   ⚠️   |  ❌  | ANE            |   ✅   |  ✅  |
+| C8817D        |   ⚠️   |  ❌  | Y330          |   ⚠️   |  ❌  | PRA            |   ✅   |  ✅  |
+| C8817L        |   ⚠️   |  ❌  | KIW           |   ⚠️   |  ❌  | VNS            |   ✅   |  ✅  |
+| LDN           |   ✅   |  ❌  | LND           |   ✅   |  ❌  | BAH2           |   ✅   |  ✅  |
+| SC-CL         |   ⚠️   |  ❌  | S7-721        |   ⚠️   |  ❌  | FLA            |   ✅   |  ✅  |
+| S8-701u       |   ⚠️   |  ❌  | TOR           |   ⚠️   |  ❌  | RNE            |   ✅   |  ✅  |
+| TOR           |   ⚠️   |  ❌  | TRT           |   ⚠️   |  ❌  | FIG            |   ✅   |  ✅  |
 
 Bootloaders added to program: KIRIN-HISI
 
