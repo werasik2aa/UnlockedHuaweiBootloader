@@ -41,18 +41,18 @@ Bootloaders added to program: QUALCOMM | KIRIN-HISI
 
 Bootloaders added to program: KIRIN-HISI
 
-| Devices       | Ability |CheckedLoads| CANWORK |
+| Devices       | Ability | WorkFastB | Unlocked  |
 | ------------- | :-----: | :-------: | :-------: |
-| KIRIN980      |   ❌   |    ✅     |    ✅    |
-| KIRIN970      |   ❌   |    ✅     |    ✅    |
+| KIRIN980      |   ❌   |    ✅     |    ❌    |
+| KIRIN970      |   ❌   |    ✅     |    ❌    |
 | KIRIN960      |   ✅   |    ✅     |    ✅    |
-| KIRIN955      |   ❌   |    ✅     |    ✅    |
+| KIRIN955      |   ❌   |    ✅     |    ❌    |
 | KIRIN950      |   ✅   |    ✅     |    ✅    |
 | KIRIN935      |   ✅   |    ✅     |    ✅    |
 | KIRIN925      |   ✅   |    ✅     |    ✅    |
-| KIRIN810      |   ❌   |    ✅     |    ✅    |
-| KIRIN710      |   ❌   |    ✅     |    ✅    |
-| KIRIN710F     |   ❌   |    ✅     |    ✅    |
+| KIRIN810      |   ❌   |    ✅     |    ❌    |
+| KIRIN710      |   ❌   |    ✅     |    ❌    |
+| KIRIN710F     |   ❌   |    ✅     |    ❌    |
 | KIRIN65x_a    |   ✅   |    ✅     |    ✅    |
 | KIRIN65x_b    |   ✅   |    ✅     |    ✅    |
 | KIRIN620(CAM) |   ✅   |    ✅     |    ✅    |
