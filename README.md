@@ -41,7 +41,7 @@ Bootloaders added to program: QUALCOMM | KIRIN-HISI
 
 Bootloaders added to program: KIRIN-HISI
 
-| Devices       | WorkFastB | FBLock=Unlocked  |
+| Devices       | Boots     | FBLock=Unlocked  |
 | ------------- | :-------: | :-------: |
 | KIRIN980      |    ✅    |    ❌    |
 | KIRIN970      |    ✅    |    ❌    |
