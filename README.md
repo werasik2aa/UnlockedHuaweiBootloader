@@ -57,3 +57,5 @@ Bootloaders added to program: KIRIN-HISI
 | KIRIN65x_b    |    ✅    |    ✅    |
 | KIRIN620(CAM) |    ✅    |    ✅    |
 | KIRIN620      |    ✅    |    ✅    |
+
+if FBlock=locked YOU CAN'T DO ANYTHING WITH IT! But i need a tester for special unlocker of this
