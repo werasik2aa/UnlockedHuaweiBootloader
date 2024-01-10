@@ -52,6 +52,7 @@ Bootloaders added to program: KIRIN-HISI
 | KIRIN925      |   ✅   |  ✅  |
 | KIRIN810      |   ❌   |  ✅  |
 | KIRIN710      |   ❌   |  ✅  |
+| KIRIN710F      |   ❌   |  ✅  |
 | KIRIN65x_a    |   ✅   |  ✅  |
 | KIRIN65x_b    |   ✅   |  ✅  |
 | KIRIN620(CAM) |   ✅   |  ✅  |
