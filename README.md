@@ -29,8 +29,8 @@ Bootloaders added to program: QUALCOMM | KIRIN-HISI
 | DUB           |   ⚠️   |  ❌  | G718          |   ⚠️   |  ❌  | BND            |   ✅   |  ✅  | CMR            |   ✅   |  ✅  |
 | CAN           |   ⚠️   |  ❌  | G730          |   ⚠️   |  ❌  | LLD            |   ✅   |  ✅  | HWI            |   ✅   |  ✅  |
 | CAZ           |   ⚠️   |  ❌  | G750          |   ⚠️   |  ❌  | AGS2           |   ✅   |  ✅  | VTR            |   ✅   |  ✅  |
-| CPN8937       |   ⚠️   |  ❌  | G760-L03      |   ✅   |  ✅  | PIC            |   ✅   |  ✅  | SNE            |   ✅   |  ⚠️  |
-| C8816         |   ⚠️   |  ❌  | H30           |   ⚠️   |  ❌  | WAS            |   ✅   |  ✅  |
+| CPN8937       |   ⚠️   |  ❌  | G760-L03      |   ✅   |  ✅  | PIC            |   ✅   |  ✅  | SNE            |   ✅   |  ✅  |
+| C8816         |   ⚠️   |  ❌  | H30           |   ⚠️   |  ❌  | WAS            |   ✅   |  ✅  | CLT            |   ❌   |  ✅  |
 | C8816D        |   ⚠️   |  ❌  | Y635          |   ⚠️   |  ❌  | ANE            |   ✅   |  ✅  |
 | C8817D        |   ⚠️   |  ❌  | Y330          |   ⚠️   |  ❌  | PRA            |   ✅   |  ✅  |
 | C8817L        |   ⚠️   |  ❌  | KIW           |   ⚠️   |  ❌  | VNS            |   ✅   |  ✅  |
