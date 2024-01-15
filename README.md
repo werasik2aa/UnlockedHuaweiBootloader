@@ -2,7 +2,7 @@ Free huawei bootloader unlock pack for "Huawei Unlock Tool". This bootloader pac
 
 Tool: https://github.com/werasik2aa/Huawei-Unlock-Tool
 
-MTK/QC LOADERS | Scatters | Other things: https://disk.yandex.ru/client/disk/PROJECT/MTK-QC
+MTK/QC LOADERS | Scatters | Other things: https://werasik2aa.github.io/Huawei-Unlock-Tool/
 
 ✅ Full / Verified
 ⚠️ Partitionally / Unknown
