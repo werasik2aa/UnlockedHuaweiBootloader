@@ -30,7 +30,7 @@ Bootloaders added to program: QUALCOMM | KIRIN-HISI
 | CAN           |   ⚠️   |  ❌  | G730          |   ✅   |  ✅  | LLD            |   ✅   |  ✅  | HWI            |   ✅   |  ✅  |
 | CAZ           |   ⚠️   |  ❌  | G750          |   ✅   |  ✅  | AGS2           |   ✅   |  ✅  | VTR            |   ✅   |  ✅  |
 | CPN8937       |   ⚠️   |  ❌  | G7-L          |   ✅   |  ✅  | PIC            |   ✅   |  ✅  | SNE            |   ✅   |  ✅  |
-| C8816         |   ✅   |  ✅  | H30           |   ✅   |  ✅  | WAS            |   ✅   |  ✅  | CLT(SEC_FB     |   ⚠️   |  ✅  |
+| C8816         |   ✅   |  ✅  | H30           |   ✅   |  ✅  | WAS            |   ✅   |  ✅  | CLT            |   ❌   |  ✅  |
 | C8816D        |   ✅   |  ✅  | Y635          |   ✅   |  ✅  | ANE            |   ✅   |  ✅  | MT2-L          |   ✅   |  ✅  |
 | C8817D        |   ✅   |  ✅  | Y330          |   ✅   |  ✅  | PRA            |   ✅   |  ✅  | G760           |   ✅   |  ✅  |
 | C8817L        |   ✅   |  ✅  | KIW           |   ✅   |  ✅  | VNS            |   ✅   |  ✅  | Che1-CL10      |   ⚠️   |  ❌  |
