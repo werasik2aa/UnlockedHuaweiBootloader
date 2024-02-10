@@ -5,7 +5,7 @@ Tool: https://github.com/werasik2aa/Huawei-Unlock-Tool
 MTK/QC LOADERS | Scatters | Other things: https://werasik2aa.github.io/Huawei-Unlock-Tool/
 
 ✅ Full / Verified
-⚠️ Partitionally / Unknown / Need Addidation tools or actions
+⚠️ Partitionally / Unknown / Need Addition tools or actions
 ❌ Not Working / Not verified
 
 If you have bootloop. Just restore your aboot, sbl1, kernel... (Sometimes need to restore tz, rpm...). [QUALCOMM]
