@@ -3,12 +3,11 @@ Free huawei bootloader unlock pack for "Huawei Unlock Tool". This bootloader pac
 Tool: https://github.com/werasik2aa/Huawei-Unlock-Tool
 
 MTK/QC LOADERS | Scatters | Other things: https://werasik2aa.github.io/Huawei-Unlock-Tool/
-
-✅ Full / Verified
-
-⚠️ Partitionally / Unknown / Need Addition tools or actions
-
-❌ Not Working / Not verified
+| State       | Description of state |
+| ----------- | :------------------: |
+| ✅ | Full / Verified               |
+| ⚠️ | Partitionally / Unknown / Need Addition tools or actions |
+| ❌ | Not Working / Not verified |
 
 If you have bootloop. Just restore your aboot, sbl1, kernel... (Sometimes need to restore tz, rpm...). [QUALCOMM]
 
