@@ -7,7 +7,7 @@ MTK/QC LOADERS | Scatters | Other things: https://werasik2aa.github.io/Huawei-Un
 | ----------- | :------------------: |
 | ✅ | Full / Verified               |
 | ⚠️ | Partitionally / Unknown / Need Addition tools or actions |
-| ❌ | Not Working / Not verified |
+| ❌ | Not Working / Not verified / Not possible rn |
 
 If you have bootloop. Just restore your aboot, sbl1, kernel... (Sometimes need to restore tz, rpm...). [QUALCOMM]
 
@@ -42,21 +42,21 @@ Bootloaders added to program: QUALCOMM | KIRIN-HISI
 
 Bootloaders added to program: KIRIN-HISI
 
-| Devices       | Boots     | FBLock=Unlocked  |
-| ------------- | :-------: | :-------: |
-| KIRIN980      |    ✅    |    ❌    |
-| KIRIN970      |    ✅    |    ❌    |
-| KIRIN960      |    ✅    |    ✅    |
-| KIRIN955      |    ✅    |    ❌    |
-| KIRIN950      |    ✅    |    ✅    |
-| KIRIN935      |    ✅    |    ✅    |
-| KIRIN925      |    ✅    |    ✅    |
-| KIRIN810      |    ✅    |    ❌    |
-| KIRIN710      |    ✅    |    ❌    |
-| KIRIN710F     |    ✅    |    ❌    |
-| KIRIN65x_a    |    ✅    |    ✅    |
-| KIRIN65x_b    |    ✅    |    ✅    |
-| KIRIN620(CAM) |    ✅    |    ✅    |
-| KIRIN620      |    ✅    |    ✅    |
+| Devices       | Boots     | FBLock Unlocked  |
+| ------------- | :-------: | :--------------: |
+| KIRIN980      |    ✅    |         ❌       |
+| KIRIN970      |    ✅    |         ❌       |
+| KIRIN960      |    ✅    |         ✅       |
+| KIRIN955      |    ✅    |         ❌       |
+| KIRIN950      |    ✅    |         ✅       |
+| KIRIN935      |    ✅    |         ✅       |
+| KIRIN925      |    ✅    |         ✅       |
+| KIRIN810      |    ✅    |         ❌       |
+| KIRIN710      |    ✅    |         ❌       |
+| KIRIN710F     |    ✅    |         ❌       |
+| KIRIN65x_a    |    ✅    |         ✅       |
+| KIRIN65x_b    |    ✅    |         ✅       |
+| KIRIN620(CAM) |    ✅    |         ✅       |
+| KIRIN620      |    ✅    |         ✅       |
 
 if FBlock=locked YOU CAN'T DO ANYTHING WITH IT! But i need a tester for special unlocker of this
