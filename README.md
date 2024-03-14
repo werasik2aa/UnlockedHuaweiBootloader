@@ -22,7 +22,7 @@ Bootloaders added to program: QUALCOMM | KIRIN-HISI
 | ALE           |   ⚠️   |  ❌  | FDR           |   ✅   |  ✅  | SCL-CLXX       |   ⚠️   |  ❌  | PLK            |   ✅   |  ✅  |
 | ARE           |   ⚠️   |  ❌  | G6-L          |   ✅   |  ✅  | SCL-L01        |   ⚠️   |  ❌  | GRA            |   ✅   |  ✅  |
 | AGS           |   ✅   |  ✅  | G6-U          |   ✅   |  ✅  | KII-L21        |   ⚠️   |  ❌  | DUK            |   ⚠️   |  ✅  |
-| ARE           |   ⚠️   |  ❌  | G615          |   ✅   |  ✅  | ALE_KIRIN      |   ✅   |  ✅  | FRD            |   ✅   |  ✅  |
+| Che1-CL10     |   ✅   |  ✅  | G615          |   ✅   |  ✅  | ALE_KIRIN      |   ✅   |  ✅  | FRD            |   ✅   |  ✅  |
 | ARS           |   ⚠️   |  ❌  | G620          |   ✅   |  ✅  | CAM            |   ✅   |  ✅  | EVA            |   ✅   |  ✅  |
 | ATH           |   ⚠️   |  ❌  | G620S         |   ✅   |  ✅  | NEM            |   ✅   |  ✅  | STF            |   ✅   |  ✅  |
 | BAH           |   ⚠️   |  ❌  | G630          |   ✅   |  ✅  | PLK            |   ✅   |  ✅  | LON            |   ✅   |  ✅  |
@@ -34,7 +34,7 @@ Bootloaders added to program: QUALCOMM | KIRIN-HISI
 | C8816         |   ✅   |  ✅  | H30           |   ✅   |  ✅  | WAS            |   ✅   |  ✅  | CLT            |   ❌   |  ✅  |
 | C8816D        |   ✅   |  ✅  | Y635          |   ✅   |  ✅  | ANE            |   ✅   |  ✅  | MT2-L          |   ✅   |  ✅  |
 | C8817D        |   ✅   |  ✅  | Y330          |   ✅   |  ✅  | PRA            |   ✅   |  ✅  | G760           |   ✅   |  ✅  |
-| C8817L        |   ✅   |  ✅  | KIW           |   ✅   |  ✅  | VNS            |   ✅   |  ✅  | Che1-CL10      |   ⚠️   |  ✅  |
+| C8817L        |   ✅   |  ✅  | KIW           |   ✅   |  ✅  | VNS            |   ✅   |  ✅  |
 | LDN           |   ✅   |  ✅  | LND           |   ✅   |  ✅  | BAH2           |   ✅   |  ✅  |
 | SC-CL         |   ⚠️   |  ❌  | S7-721u       |   ✅   |  ✅  | FLA            |   ✅   |  ✅  |
 | S8-701u       |   ✅   |  ✅  | TOR           |   ⚠️   |  ❌  | RNE            |   ✅   |  ✅  |
