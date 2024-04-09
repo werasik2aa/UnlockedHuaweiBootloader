@@ -17,7 +17,7 @@ Bootloaders added to program: QUALCOMM | KIRIN-HISI
 
 | Devices       | Ability | Checked | Devices    | Ability | Checked | Devices     | Ability | Checked | Devices     | Ability | Checked |
 | ------------- | :-----: | :-----: | ---------- | :-----: | :-----: | ----------- | :-----: | :---:   | ----------- | :-----: | :----:  |
-| ATU           |   ✅   |  ✅  | Che1-CL20     |   ✅   |  ✅  | KOB-WXX        |   ⚠️   |  ❌  | FIG            |   ✅   |  ✅  |
+| ATU           |   ✅   |  ✅  | Che1-CL20     |   ✅   |  ✅  | SCL-L21        |   ⚠️   |  ❌  | FIG            |   ✅   |  ✅  |
 | AUM           |   ✅   |  ✅  | DLI           |   ⚠️   |  ❌  | SCC-UXX        |   ⚠️   |  ❌  | PE             |   ✅   |  ✅  |
 | ALE           |   ⚠️   |  ❌  | FDR           |   ✅   |  ✅  | SCL-CLXX       |   ⚠️   |  ❌  | PLK            |   ✅   |  ✅  |
 | ARE           |   ⚠️   |  ❌  | G6-L          |   ✅   |  ✅  | SCL-L01        |   ⚠️   |  ❌  | GRA            |   ✅   |  ✅  |
@@ -34,11 +34,11 @@ Bootloaders added to program: QUALCOMM | KIRIN-HISI
 | C8816         |   ✅   |  ✅  | H30           |   ✅   |  ✅  | WAS            |   ✅   |  ✅  | CLT            |   ❌   |  ✅  |
 | C8816D        |   ✅   |  ✅  | Y635          |   ✅   |  ✅  | ANE            |   ✅   |  ✅  | MT2-L          |   ✅   |  ✅  |
 | C8817D        |   ✅   |  ✅  | Y330          |   ✅   |  ✅  | PRA            |   ✅   |  ✅  | G760           |   ✅   |  ✅  |
-| C8817L        |   ✅   |  ✅  | KIW           |   ✅   |  ✅  | VNS            |   ✅   |  ✅  |
+| C8817L        |   ✅   |  ✅  | KIW           |   ✅   |  ✅  | VNS            |   ✅   |  ✅  | T1-A21L        |   ⚠️   |  ❌  |
 | LDN           |   ✅   |  ✅  | LND           |   ✅   |  ✅  | BAH2           |   ✅   |  ✅  |
 | SC-CL         |   ⚠️   |  ❌  | S7-721u       |   ✅   |  ✅  | FLA            |   ✅   |  ✅  |
 | S8-701u       |   ✅   |  ✅  | TOR           |   ⚠️   |  ❌  | RNE            |   ✅   |  ✅  |
-| TOR           |   ⚠️   |  ❌  | TRT           |   ⚠️   |  ❌  | FIG            |   ✅   |  ✅  |
+| KOB-WXX       |   ⚠️   |  ❌  | TRT           |   ⚠️   |  ❌  | FIG            |   ✅   |  ✅  |
 
 Bootloaders added to program: KIRIN-HISI
 
