@@ -41,21 +41,21 @@ Bootloaders added to program: QUALCOMM | KIRIN-HISI
 
 Bootloaders added to program: KIRIN-HISI
 
-| Devices       | Boots     | FBLock Unlocked  |
-| ------------- | :-------: | :--------------: |
-| KIRIN980      |    ✅    |         ❌       |
-| KIRIN970      |    ✅    |         ❌       |
-| KIRIN960      |    ✅    |         ✅       |
-| KIRIN955      |    ✅    |         ❌       |
-| KIRIN950      |    ✅    |         ✅       |
-| KIRIN935      |    ✅    |         ✅       |
-| KIRIN925      |    ✅    |         ✅       |
-| KIRIN810      |    ✅    |         ❌       |
-| KIRIN710      |    ✅    |         ❌       |
-| KIRIN710F     |    ✅    |         ❌       |
-| KIRIN65x_a    |    ✅    |         ✅       |
-| KIRIN65x_b    |    ✅    |         ✅       |
-| KIRIN620(CAM) |    ✅    |         ✅       |
-| KIRIN620      |    ✅    |         ✅       |
+| Devices       | Boots     | FBLock Unlocked  | Is UL_KEY R/W with it | Is it can unlock device after flash to device |
+| ------------- | :-------: | :--------------: | :-------------------:  | :-------------------: |
+| KIRIN980      |    ✅    |         ❌       |           ❌          |          ⚠️          |
+| KIRIN970      |    ✅    |         ❌       |           ❌          |          ✅          |
+| KIRIN960      |    ✅    |         ✅       |           ✅          |          ⚠️          |
+| KIRIN955      |    ✅    |         ❌       |           ❌          |          ⚠️          |
+| KIRIN950      |    ✅    |         ✅       |           ✅          |          ✅          |
+| KIRIN935      |    ✅    |         ✅       |           ✅          |          ✅          |
+| KIRIN925      |    ✅    |         ✅       |           ✅          |          ✅          |
+| KIRIN810      |    ✅    |         ❌       |           ❌          |          ⚠️          |
+| KIRIN710      |    ✅    |         ❌       |           ✅          |          ✅          |
+| KIRIN710F     |    ✅    |         ❌       |           ❌          |          ⚠️          |
+| KIRIN65x_a    |    ✅    |         ✅       |           ✅          |          ✅          |
+| KIRIN65x_b    |    ✅    |         ✅       |           ✅          |          ✅          |
+| KIRIN620(CAM) |    ✅    |         ✅       |           ✅          |          ✅          |
+| KIRIN620      |    ✅    |         ✅       |           ✅          |          ✅          |
 
 if FBlock=locked YOU CAN'T DO ANYTHING WITH IT! But i need a tester for special unlocker of this
