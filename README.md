@@ -20,8 +20,8 @@ Bootloaders added to program: QUALCOMM | KIRIN-HISI
 | ATU           |   ✅   |  ✅  | Che1-CL20     |   ✅   |  ✅  | SCL-L21        |   ⚠️   |  ❌  | FIG            |   ✅   |  ✅  |
 | AUM           |   ✅   |  ✅  | DLI           |   ⚠️   |  ❌  | SCC-UXX        |   ⚠️   |  ❌  | PE             |   ✅   |  ✅  |
 | ALE           |   ⚠️   |  ❌  | FDR           |   ✅   |  ✅  | SCL-CLXX       |   ⚠️   |  ❌  | PLK            |   ✅   |  ✅  |
-| ARE           |   ⚠️   |  ❌  | G6-L          |   ✅   |  ✅  | SCL-L01        |   ⚠️   |  ❌  | GRA            |   ✅   |  ✅  |
-| AGS           |   ✅   |  ✅  | G6-U          |   ✅   |  ✅  | KII-L21        |   ⚠️   |  ❌  | DUK            |   ⚠️   |  ✅  |
+| ARE           |   ⚠️   |  ❌  | NIN-A1        |   ⚠️   |  ❌  | SCL-L01        |   ⚠️   |  ❌  | GRA            |   ✅   |  ✅  |
+| AGS           |   ⚠️   |  ✅  | G6-U-L-C      |   ✅   |  ✅  | KII-L21        |   ⚠️   |  ❌  | DUK            |   ⚠️   |  ✅  |
 | Che1-CL10     |   ✅   |  ✅  | G615          |   ✅   |  ✅  | ALE_KIRIN      |   ✅   |  ✅  | FRD            |   ✅   |  ✅  |
 | ARS           |   ⚠️   |  ❌  | G620          |   ✅   |  ✅  | CAM            |   ✅   |  ✅  | EVA            |   ✅   |  ✅  |
 | ATH           |   ⚠️   |  ❌  | G620S         |   ✅   |  ✅  | NEM            |   ✅   |  ✅  | STF            |   ✅   |  ✅  |
@@ -35,7 +35,7 @@ Bootloaders added to program: QUALCOMM | KIRIN-HISI
 | C8816D        |   ✅   |  ✅  | Y635          |   ✅   |  ✅  | ANE            |   ✅   |  ✅  | MT2-L          |   ✅   |  ✅  |
 | C8817D        |   ✅   |  ✅  | Y330          |   ✅   |  ✅  | PRA            |   ✅   |  ✅  | G760           |   ✅   |  ✅  |
 | C8817L        |   ✅   |  ✅  | KIW           |   ✅   |  ✅  | VNS            |   ✅   |  ✅  | T1-A21L        |   ⚠️   |  ❌  |
-| LDN           |   ✅   |  ✅  | LND           |   ✅   |  ✅  | BAH2           |   ✅   |  ✅  |
+| LDN           |   ✅   |  ✅  | LND           |   ✅   |  ✅  | BAH2           |   ✅   |  ✅  | CPN-L09        |   ⚠️   |  ❌  |
 | SC-CL         |   ⚠️   |  ❌  | S7-721u       |   ✅   |  ✅  | FLA            |   ✅   |  ✅  |
 | S8-701u       |   ✅   |  ✅  | TOR           |   ⚠️   |  ❌  | RNE            |   ✅   |  ✅  |
 | KOB-WXX       |   ⚠️   |  ❌  | TRT           |   ⚠️   |  ❌  | FIG            |   ✅   |  ✅  |
