@@ -14,7 +14,7 @@ Almost all board firmware has title phone locked. It's fake
 
 Bootloaders added to program: QUALCOMM | KIRIN-HISI
 
-| Devices       | Unlockable | Checked | Devices    | Ability | Checked | Devices     | Unlockable | Checked | Devices     | Ability | Checked |
+| Devices       | Unlocks | Checked | Devices    | Ability | Checked | Devices     | Unlocks | Checked | Devices     | Ability | Checked |
 | ------------- | :-----: | :-----: | ---------- | :-----: | :-----: | ----------- | :-----: | :---:   | ----------- | :-----: | :----:  |
 | ATU           |   ✅   |  ✅  | Che1-CL20     |   ✅   |  ✅  | SCL-L21        |   ❌   |  ✅  | FIG            |   ✅   |  ✅  |
 | AUM           |   ✅   |  ✅  | DLI           |   ⚠️   |  ❌  | SCC-UXX        |   ❌   |  ✅  | PE             |   ✅   |  ✅  |
