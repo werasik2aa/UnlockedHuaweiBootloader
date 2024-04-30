@@ -14,12 +14,12 @@ Almost all board firmware has title phone locked. It's fake
 
 Bootloaders added to program: QUALCOMM | KIRIN-HISI
 
-| Devices       | Ability | Checked | Devices    | Ability | Checked | Devices     | Ability | Checked | Devices     | Ability | Checked |
+| Devices       | Unlockable | Checked | Devices    | Ability | Checked | Devices     | Unlockable | Checked | Devices     | Ability | Checked |
 | ------------- | :-----: | :-----: | ---------- | :-----: | :-----: | ----------- | :-----: | :---:   | ----------- | :-----: | :----:  |
-| ATU           |   ✅   |  ✅  | Che1-CL20     |   ✅   |  ✅  | SCL-L21        |   ⚠️   |  ❌  | FIG            |   ✅   |  ✅  |
-| AUM           |   ✅   |  ✅  | DLI           |   ⚠️   |  ❌  | SCC-UXX        |   ⚠️   |  ❌  | PE             |   ✅   |  ✅  |
+| ATU           |   ✅   |  ✅  | Che1-CL20     |   ✅   |  ✅  | SCL-L21        |   ❌   |  ✅  | FIG            |   ✅   |  ✅  |
+| AUM           |   ✅   |  ✅  | DLI           |   ⚠️   |  ❌  | SCC-UXX        |   ❌   |  ✅  | PE             |   ✅   |  ✅  |
 | ALE           |   ⚠️   |  ❌  | FDR           |   ✅   |  ✅  | SCL-CLXX       |   ⚠️   |  ❌  | PLK            |   ✅   |  ✅  |
-| ARE           |   ⚠️   |  ❌  | NIN-A1        |   ⚠️   |  ❌  | SCL-L01        |   ⚠️   |  ❌  | GRA            |   ✅   |  ✅  |
+| ARE           |   ⚠️   |  ❌  | NIN-A1        |   ⚠️   |  ❌  | SCL-L01        |   ❌   |  ✅  | GRA            |   ✅   |  ✅  |
 | AGS           |   ⚠️   |  ✅  | G6-U-L-C      |   ✅   |  ✅  | KII-L21        |   ⚠️   |  ❌  | DUK            |   ⚠️   |  ✅  |
 | Che1-CL10     |   ✅   |  ✅  | G615          |   ✅   |  ✅  | ALE_KIRIN      |   ✅   |  ✅  | FRD            |   ✅   |  ✅  |
 | ARS           |   ⚠️   |  ❌  | G620          |   ✅   |  ✅  | CAM            |   ✅   |  ✅  | EVA            |   ✅   |  ✅  |
