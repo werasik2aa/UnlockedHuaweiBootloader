@@ -33,7 +33,7 @@ Bootloaders added to program: QUALCOMM | KIRIN-HISI
 | C8816         |   ✅   |  ✅  | H30           |   ✅   |  ✅  | WAS            |   ✅   |  ✅  | CLT            |   ❌   |  ✅  |
 | C8816D        |   ✅   |  ✅  | Y635          |   ✅   |  ✅  | ANE            |   ✅   |  ✅  | MT2-L          |   ✅   |  ✅  |
 | C8817D        |   ✅   |  ✅  | Y330          |   ✅   |  ✅  | PRA            |   ✅   |  ✅  | G760           |   ✅   |  ✅  |
-| C8817L        |   ✅   |  ✅  | KIW           |   ❌   |  ✅  | VNS            |   ✅   |  ✅  | T1-A21L        |   ⚠️   |  ❌  |
+| C8817L        |   ✅   |  ✅  | KIW           |   ⚠️   |  ✅  | VNS            |   ✅   |  ✅  | T1-A21L        |   ⚠️   |  ❌  |
 | LDN           |   ✅   |  ✅  | LND           |   ✅   |  ✅  | BAH2           |   ✅   |  ✅  | CPN-L09        |   ⚠️   |  ❌  |
 | SC-CL         |   ⚠️   |  ❌  | S7-721u       |   ✅   |  ✅  | FLA            |   ✅   |  ✅  |
 | S8-701u       |   ✅   |  ✅  | TOR           |   ⚠️   |  ❌  | RNE            |   ✅   |  ✅  |
