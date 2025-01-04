@@ -43,6 +43,7 @@ Bootloaders added to program: KIRIN-HISI
 
 | Devices       | Boots     | FBLock Unlocked  | Is UL_KEY R/W with it | Is it can unlock device after flash to device |
 | ------------- | :-------: | :--------------: | :-------------------:  | :-------------------: |
+| KIRIN990      |    ✅    |         ❌       |           ❌          |          ⚠️          |
 | KIRIN980      |    ✅    |         ❌       |           ❌          |          ⚠️          |
 | KIRIN970      |    ✅    |         ❌       |           ❌          |          ✅          |
 | KIRIN960      |    ✅    |         ✅       |           ✅          |          ⚠️          |
