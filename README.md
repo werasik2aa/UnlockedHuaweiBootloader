@@ -37,7 +37,7 @@ Bootloaders added to program: QUALCOMM | KIRIN-HISI
 | LDN           |   ✅   |  ✅  | LND           |   ✅   |  ✅  | BAH2           |   ✅   |  ✅  | CPN-L09        |   ⚠️   |  ❌  |
 | SC-CL         |   ⚠️   |  ❌  | S7-721u       |   ✅   |  ✅  | FLA            |   ✅   |  ✅  | RIO-L01        |   ⚠️   |  ❌  |
 | S8-701u       |   ✅   |  ✅  | TOR           |   ⚠️   |  ❌  | RNE            |   ✅   |  ✅  | SLA            |   ⚠️   |  ❌  |
-| KOB-WXX       |   ⚠️   |  ❌  | TRT           |   ⚠️   |  ❌  | FIG            |   ✅   |  ✅  |
+| KOB-WXX       |   ⚠️   |  ❌  | TRT           |   ⚠️   |  ❌  | FIG            |   ✅   |  ✅  | Y530-U00       |   ✅   |  ✅  |
 
 Bootloaders added to program: KIRIN-HISI
 
