@@ -20,7 +20,7 @@ Bootloaders added to program: QUALCOMM | KIRIN-HISI
 | AUM           |   ✅   |  ✅  | DLI           |   ⚠️   |  ❌  | SCC-UXX        |   ❌   |  ✅  | PE             |   ✅   |  ✅  |
 | ALE           |   ⚠️   |  ❌  | FDR           |   ✅   |  ✅  | SCL-CLXX       |   ❌   |  ✅  | PLK            |   ✅   |  ✅  |
 | ARE           |   ⚠️   |  ❌  | NIN-A1        |   ⚠️   |  ❌  | SCL-L01        |   ❌   |  ✅  | GRA            |   ✅   |  ✅  |
-| AGS           |   ✅⚠️ |  ✅  | G6-U-L-C      |   ✅   |  ✅  | KII-L21        |   ⚠️   |  ❌  | DUK            |   ⚠️   |  ✅  |
+| AGS           |   ✅   |  ✅  | G6-U-L-C      |   ✅   |  ✅  | KII-L21        |   ⚠️   |  ❌  | DUK            |   ⚠️   |  ✅  |
 | Che1-CL10     |   ✅   |  ✅  | G615          |   ✅   |  ✅  | ALE_KIRIN      |   ✅   |  ✅  | FRD            |   ✅   |  ✅  |
 | ARS           |   ⚠️   |  ❌  | G620          |   ✅   |  ✅  | CAM            |   ✅   |  ✅  | EVA            |   ✅   |  ✅  |
 | ATH           |   ⚠️   |  ❌  | G620S         |   ✅   |  ✅  | NEM            |   ✅   |  ✅  | STF            |   ✅   |  ✅  |
